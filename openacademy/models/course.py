@@ -2,7 +2,7 @@
 
 from odoo import models, fields, api
 
-class Course(models.Model):
+class course(models.Model):
     _name: 'openacademy.course'
     _description: "OpenAcademy Courses"
 
