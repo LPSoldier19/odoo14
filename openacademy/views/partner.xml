@@ -1,4 +1,4 @@
- <odoo>
+<odoo>
 
         <!-- Add instructor field to existing view -->
         <record model="ir.ui.view" id="partner_instructor_form_view">

@@ -50,7 +50,7 @@
                     <field name="name"/>
                 </calendar>
             </field>
-        </record>´
+        </record>
 
         <record model="ir.ui.view" id="session_gantt_view">
             <field name="name">session.gantt</field>
@@ -129,5 +129,8 @@
         <menuitem id="session_menu" name="Sessions"
                   parent="openacademy_menu"
                   action="session_list_action"/>
+
+        
+
 
 </odoo>
